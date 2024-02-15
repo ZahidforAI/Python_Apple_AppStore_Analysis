@@ -1,2 +1,2 @@
-# Python_Apple_AppStore_Analysis
-"Python_Apple_AppStore_Analysis" is a repository dedicated to analyzing trends and insights within the Apple App Store using Python.
+# Apple AppStore Analysis
+![https://github.com/ZahidforAI/Python_Apple_AppStore_Analysis/blob/main/AppleAppStoreEDA.png] (Apple EDA Banner)
